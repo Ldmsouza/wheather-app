@@ -6,6 +6,7 @@ document.querySelector('.busca').addEventListener('submit', (event)=>{
     
     if (input !== ''){
         showWarning('Carregando...')
+        
     }
 
 });
